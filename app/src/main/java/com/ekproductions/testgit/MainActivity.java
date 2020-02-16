@@ -29,13 +29,6 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        //Removed Line from B1
-
-        //Add more comments
-
-        // Master Adding more comments
-        // More commets added from master
-        //more from master....
     }
 
     @Override
