@@ -29,8 +29,9 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        //Removed Line from B1
 
-        //TES MOD
+        //Add more comments
     }
 
     @Override
