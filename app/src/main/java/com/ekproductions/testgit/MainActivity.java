@@ -39,8 +39,6 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    //Master updated
-
     //Master Comments
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -60,5 +58,4 @@ public class MainActivity extends AppCompatActivity {
     //Keith Demo - Comments
     //Keith Demo - Terminal
     //B1 Additions
-    //B1 change after Rebase
 }
